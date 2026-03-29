@@ -173,8 +173,9 @@ jupyter notebook
 © 2026 Evoastra Ventures (OPC) Pvt Ltd. All rights reserved.
 
 ## Architecture Diagram
+![architecture_diagram](https://github.com/user-attachments/assets/b81d9861-afac-45c7-bad2-485040a888fa)
 
-![Architecture Diagram](docs/architecture_diagram.jpg)
+
 
 ## Architecture Diagram
 
