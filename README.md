@@ -4,13 +4,13 @@ An end-to-end ML system for predicting supply chain sales values, with automated
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Build an intelligent supply chain analytics system that forecasts demand, identifies bottleneck risks, optimizes inventory allocation, and supports real-time decision-making — trained on global supply chain datasets exceeding 100K records.
 
 ---
 
-## 🔁 End-to-End Flow
+##  End-to-End Flow
 
 ```
 Raw Data → Preprocessing → Feature Alignment → Encoding → XGBoost Model → Prediction → SHAP → API Response
@@ -48,7 +48,7 @@ Per-prediction feature attribution, e.g.:
 
 ---
 
-## 🏗️ CI/CD Pipeline
+##  CI/CD Pipeline
 
 ```
 Code Push / Schedule
@@ -62,7 +62,7 @@ Code Push / Schedule
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 evoastra-supply-chain-capstone/
@@ -91,7 +91,7 @@ evoastra-supply-chain-capstone/
 
 ---
 
-## 🔄 Phase Progression
+##  Phase Progression
 
 ### Phase 1 — Data Analytics
 - Data cleaning, missing value handling, outlier detection
@@ -127,7 +127,7 @@ evoastra-supply-chain-capstone/
 
 ---
 
-## 📈 Model Results
+##  Model Results
 
 | Phase | Model | R² | RMSE |
 |-------|-------|----|------|
@@ -137,7 +137,7 @@ evoastra-supply-chain-capstone/
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Area | Tools |
 |------|-------|
@@ -149,7 +149,7 @@ evoastra-supply-chain-capstone/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/your-org/evoastra-supply-chain-capstone.git
@@ -160,7 +160,7 @@ jupyter notebook
 
 ---
 
-## 🎯 System Capabilities
+##  System Capabilities
 
 - Automated ML training & retraining via CI/CD
 - Real-time REST API prediction (FastAPI)
